@@ -28,7 +28,9 @@ layout: default
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
     {% else %}
-      Contents
+      <section id = "projects">
+        <a href="#projects">Projects and Posts</a>
+      </section>
     {% endif %}
   </h1>
 
