@@ -20,12 +20,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   actively pursuing roles involving AI research and its application to difficult problems. <br />
   <br />
   <br />
+  <br />
 #currently developing new AI tools to better the human condition.
 #A Learning Machine specializing in Machine Learning. <br />
 #baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://zonovax.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
-twitter_username: patdryburgh
+#twitter_username: ZonovaX
 github_username:  ZonovaX
 
 # Build settings
@@ -48,3 +49,6 @@ markdown: kramdown
 
 #paginate: 3
 #paginate_path: "/page/:num/"
+
+hide_credits: true
+hide_search: true
