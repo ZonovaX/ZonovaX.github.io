@@ -6,9 +6,9 @@ layout: post
 ---
 
 <figure>
-  <img src="https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2021/11/madison-grosvenor-bias-oxygen-news.jpeg?resize=1536%2C1024&ssl=1" width = "350" height = "350"/>
+  <img src="https://github.com/ZonovaX/zonovax.github.io/blob/8409f2182728b5e6e14322403671a907a817c1d1/classified_quantum_system.jpg"/>
   <figcaption>
-  Source: <a href = "https://www.michigandaily.com/news/u-m-research-confirms-racial-bias-in-popular-blood-oxygen-reading-technology/">MichiganDaily.com </a>
+  After applying our algorithm, samples from two systems which were previously indistinguishable are now visually distinct.
   </figcaption>
 </figure>
 
