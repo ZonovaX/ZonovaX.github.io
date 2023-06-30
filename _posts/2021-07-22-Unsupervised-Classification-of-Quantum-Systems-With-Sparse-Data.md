@@ -6,7 +6,7 @@ layout: post
 ---
 
 <figure>
-  <img src="https://github.com/ZonovaX/zonovax.github.io/blob/8409f2182728b5e6e14322403671a907a817c1d1/classified_quantum_system.jpg"/>
+  <img src="https://raw.githubusercontent.com/ZonovaX/zonovax.github.io/master/classified_quantum_system.jpg" width = "500"/>
   <figcaption>
   After applying our algorithm, samples from two systems which were previously indistinguishable are now visually distinct.
   </figcaption>
