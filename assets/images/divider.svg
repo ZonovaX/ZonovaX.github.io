@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="152px" height="12px" viewBox="0 0 152 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M76,11 C72.1340068,11 69,8.76142375 69,6 C69,3.23857625 72.1340068,1 76,1 C79.8659932,1 83,3.23857625 83,6 C83,8.76142375 79.8659932,11 76,11 Z M76,9 C78.7614237,9 81,7.65685425 81,6 C81,4.34314575 78.7614237,3 76,3 C73.2385763,3 71,4.34314575 71,6 C71,7.65685425 73.2385763,9 76,9 Z" id="Combined-Shape" fill="#0B0404"></path>
-        <path d="M3.32382311,7 L-10,12 C-8.46623094,9.99598868 -7.69934641,7.99456112 -7.69934641,5.99571734 C-7.69934641,3.99687356 -8.46623094,1.99830112 -10,0 L3.34285714,5 L57,5 L57,7 L3.32382311,7 Z" id="Combined-Shape" fill="#0B0404" transform="translate(28.500000, 6.000000) scale(-1, 1) translate(-28.500000, -6.000000) "></path>
-        <path d="M98.3238231,7 L85,12 C86.5337691,9.99598868 87.3006536,7.99456112 87.3006536,5.99571734 C87.3006536,3.99687356 86.5337691,1.99830112 85,0 L98.3428571,5 L152,5 L152,7 L98.3238231,7 Z" id="Combined-Shape" fill="#0B0404"></path>
-    </g>
-</svg>
+<svg width="152" height="12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden"><defs><clipPath id="clip0"><rect x="564" y="354" width="152" height="12"/></clipPath></defs><g clip-path="url(#clip0)" transform="translate(-564 -354)"><path d="M640 365C636.134 365 633 362.761 633 360 633 357.239 636.134 355 640 355 643.866 355 647 357.239 647 360 647 362.761 643.866 365 640 365ZM640 363C642.761 363 645 361.657 645 360 645 358.343 642.761 357 640 357 637.239 357 635 358.343 635 360 635 361.657 637.239 363 640 363Z" fill="#FFFFFF" fill-rule="evenodd"/><path d="M3.32382 7-10 12C-8.46623 9.99599-7.69935 7.99456-7.69935 5.99572-7.69935 3.99687-8.46623 1.9983-10 0L3.34286 5 57 5 57 7 3.32382 7Z" fill="#FFFFFF" fill-rule="evenodd" transform="matrix(-1 0 0 1 621 354)"/><path d="M662.324 361 649 366C650.534 363.996 651.301 361.995 651.301 359.996 651.301 357.997 650.534 355.998 649 354L662.343 359 716 359 716 361 662.324 361Z" fill="#FFFFFF" fill-rule="evenodd"/></g></svg>

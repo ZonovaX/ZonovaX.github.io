@@ -1,10 +1,11 @@
+
 .post-list {
   margin: 1em 0;
   list-style: none;
   &:hover,
   &:focus-within {
     .post-link {
-      opacity: .6;
+      opacity: 0.6;
     }
   }
 }
@@ -23,6 +24,7 @@
   &:hover,
   &:focus {
     opacity: 1 !important;
+    background: none !important;
   }
   @media (min-width: $on-tablet) {
     display: flex;
